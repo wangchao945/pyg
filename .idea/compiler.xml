@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="maven-archiver (10)" />
         <module name="maven-archiver (11)" />
         <module name="maven-archiver (12)" />
@@ -50,68 +51,39 @@
         <module name="pinyougou_user_service" />
         <module name="pinyougou_user_web" />
         <module name="pinyouyou_task_service" />
+=======
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (2)" />
+        <module name="maven-archiver (3)" />
+        <module name="maven-archiver (4)" />
+        <module name="maven-archiver (5)" />
+        <module name="maven-archiver (6)" />
+        <module name="maven-archiver (7)" />
+        <module name="pinyougou_cart_interface" />
+        <module name="pinyougou_content_interface" />
+        <module name="pinyougou_order_interface" />
+        <module name="pinyougou_page_interface" />
+        <module name="pinyougou_pay_interface" />
+        <module name="pinyougou_search_interface" />
+        <module name="pinyougou_seckill_interface" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="maven-archiver (1)" target="1.5" />
-      <module name="maven-archiver (10)" target="1.5" />
-      <module name="maven-archiver (11)" target="1.5" />
-      <module name="maven-archiver (12)" target="1.5" />
-      <module name="maven-archiver (13)" target="1.5" />
-      <module name="maven-archiver (14)" target="1.5" />
-      <module name="maven-archiver (15)" target="1.5" />
-      <module name="maven-archiver (16)" target="1.5" />
-      <module name="maven-archiver (17)" target="1.5" />
-      <module name="maven-archiver (18)" target="1.5" />
-      <module name="maven-archiver (19)" target="1.5" />
       <module name="maven-archiver (2)" target="1.5" />
-      <module name="maven-archiver (20)" target="1.5" />
-      <module name="maven-archiver (21)" target="1.5" />
-      <module name="maven-archiver (22)" target="1.5" />
-      <module name="maven-archiver (23)" target="1.5" />
-      <module name="maven-archiver (24)" target="1.5" />
-      <module name="maven-archiver (25)" target="1.5" />
-      <module name="maven-archiver (26)" target="1.5" />
-      <module name="maven-archiver (27)" target="1.5" />
       <module name="maven-archiver (3)" target="1.5" />
       <module name="maven-archiver (4)" target="1.5" />
       <module name="maven-archiver (5)" target="1.5" />
       <module name="maven-archiver (6)" target="1.5" />
       <module name="maven-archiver (7)" target="1.5" />
-      <module name="maven-archiver (8)" target="1.5" />
-      <module name="maven-archiver (9)" target="1.5" />
-      <module name="pinyougou_cart_interface" target="1.8" />
-      <module name="pinyougou_cart_service" target="1.8" />
-      <module name="pinyougou_cart_web" target="1.8" />
-      <module name="pinyougou_common" target="1.8" />
-      <module name="pinyougou_content_interface" target="1.8" />
-      <module name="pinyougou_content_service" target="1.8" />
-      <module name="pinyougou_dao" target="1.8" />
-      <module name="pinyougou_manager_web" target="1.8" />
-      <module name="pinyougou_order_interface" target="1.8" />
-      <module name="pinyougou_order_service" target="1.8" />
-      <module name="pinyougou_page_interface" target="1.8" />
-      <module name="pinyougou_page_servicer" target="1.8" />
-      <module name="pinyougou_page_web" target="1.8" />
-      <module name="pinyougou_parent" target="1.8" />
-      <module name="pinyougou_pay_interface" target="1.8" />
-      <module name="pinyougou_pay_service" target="1.8" />
-      <module name="pinyougou_pojo" target="1.8" />
-      <module name="pinyougou_portal_web" target="1.8" />
-      <module name="pinyougou_search_interface" target="1.8" />
-      <module name="pinyougou_search_service" target="1.8" />
-      <module name="pinyougou_search_web" target="1.8" />
-      <module name="pinyougou_seckill_interface" target="1.8" />
-      <module name="pinyougou_seckill_service" target="1.8" />
-      <module name="pinyougou_seckill_web" target="1.8" />
-      <module name="pinyougou_sellergoods_interface" target="1.8" />
-      <module name="pinyougou_sellergoods_service" target="1.8" />
-      <module name="pinyougou_shop_web" target="1.8" />
-      <module name="pinyougou_solr_util" target="1.8" />
-      <module name="pinyougou_user_interface" target="1.8" />
-      <module name="pinyougou_user_service" target="1.8" />
-      <module name="pinyougou_user_web" target="1.8" />
-      <module name="pinyouyou_task_service" target="1.8" />
+      <module name="pinyougou_cart_interface" target="1.5" />
+      <module name="pinyougou_content_interface" target="1.5" />
+      <module name="pinyougou_order_interface" target="1.5" />
+      <module name="pinyougou_page_interface" target="1.5" />
+      <module name="pinyougou_pay_interface" target="1.5" />
+      <module name="pinyougou_search_interface" target="1.5" />
+      <module name="pinyougou_seckill_interface" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

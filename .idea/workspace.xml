@@ -2,7 +2,175 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1731046-1d5c-44ac-ae3b-4c41ff225485" name="Default" comment="shaoweixiugaiyixia">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/PageResult.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContentCategory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou_order_interface/UserController.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_cart_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_cart_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_cart_web_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_cart_web_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_content_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_content_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manager_web_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manager_web_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_order_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_order_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_page_servicer_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_page_servicer_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_page_web_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_page_web_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_pay_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_pay_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_portal_web_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_portal_web_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_search_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_search_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_search_web_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_search_web_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_seckill_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_seckill_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_seckill_web_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_seckill_web_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_sellergoods_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_sellergoods_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_shop_web_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_shop_web_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_user_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_user_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_user_web_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_user_web_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyouyou_task_service_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyouyou_task_service_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__backport_util_concurrent_backport_util_concurrent_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ca_juliusdavies_not_yet_commons_ssl_0_3_9.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_8_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_wxpay_wxpay_sdk_0_0_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_1_6_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activeio_core_3_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_13_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_core_5_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_core_1_5_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_0_spec_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_santuario_xmlsec_1_4_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_solrj_4_10_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15_1_45.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_csource_fastdfs_fastdfs_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasig_cas_client_cas_client_core_3_3_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_opensaml_2_5_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_openws_1_4_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_xmltooling_1_3_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_owasp_esapi_esapi_2_0GA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_6_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_5_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_2_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_1_2_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_7_2_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_solr_1_5_5_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_cas_4_1_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_1_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_1_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_1_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_6_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_6_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_6_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_6_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_10_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_cart_interface/pinyougou_cart_interface.iml" afterPath="$PROJECT_DIR$/pinyougou_cart_interface/pinyougou_cart_interface.iml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_cart_interface/target/maven-archiver/maven-archiver (1).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_content_interface/pinyougou_content_interface.iml" afterPath="$PROJECT_DIR$/pinyougou_content_interface/pinyougou_content_interface.iml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentService.java" afterPath="$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentService.java" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_order_interface/pinyougou_order_interface.iml" afterPath="$PROJECT_DIR$/pinyougou_order_interface/pinyougou_order_interface.iml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_page_interface/pinyougou_page_interface.iml" afterPath="$PROJECT_DIR$/pinyougou_page_interface/pinyougou_page_interface.iml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_pay_interface/pinyougou_pay_interface.iml" afterPath="$PROJECT_DIR$/pinyougou_pay_interface/pinyougou_pay_interface.iml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_search_interface/pinyougou_search_interface.iml" afterPath="$PROJECT_DIR$/pinyougou_search_interface/pinyougou_search_interface.iml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_seckill_interface/pinyougou_seckill_interface.iml" afterPath="$PROJECT_DIR$/pinyougou_seckill_interface/pinyougou_seckill_interface.iml" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
     </list>
     <ignored path="$PROJECT_DIR$/pinyougou_cart_interface/target/" />
     <ignored path="$PROJECT_DIR$/pinyougou_pay_interface/target/" />
@@ -20,11 +188,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+<<<<<<< HEAD
       <file leaf-file-name="ContentCategoryService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentCategoryService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+=======
+      <file leaf-file-name="ContentCategoryService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentCategoryService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pinyougou_order_interface/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbContentCategory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContentCategory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
               <folding />
             </state>
           </provider>
@@ -33,8 +229,33 @@
       <file leaf-file-name="ContentService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentService.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="210">
               <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+=======
+            <state relative-caret-position="149">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/PageResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbContent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
               <folding />
             </state>
           </provider>
@@ -150,12 +371,21 @@
     <property name="project.structure.side.proportion" value="0.37959558" />
   </component>
   <component name="RecentsManager">
+<<<<<<< HEAD
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.pinyougou.content.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IdeaProjects\pyg\pinyougou_order_interface" />
     </key>
+=======
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\pyg\pinyougou_order_interface" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pinyougou.content.service" />
+    </key>
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,6 +496,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569238786008</updated>
       <workItem from="1569238787423" duration="452000" />
+<<<<<<< HEAD
     </task>
     <task id="LOCAL-00001" summary="shaoweixiugaiyixia11">
       <created>1569239073948</created>
@@ -274,11 +505,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569239073948</updated>
     </task>
+=======
+    </task>
+    <task id="LOCAL-00001" summary="shaoweixiugaiyixia11">
+      <created>1569239073948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569239073948</updated>
+    </task>
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="539000" />
+=======
+    <option name="totallyTimeSpent" value="452000" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -313,6 +558,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+<<<<<<< HEAD
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17667045" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -332,6 +578,10 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" x="720" y="59" width="480" height="911" />
+=======
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -354,6 +604,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../pinyougou_parent/pinyougou_search_service/src/main/java/com/pinyougou/search/service/impl/ItemSearchListener.java" />
     <entry file="file://$PROJECT_DIR$/../pinyougou_parent/pinyougou_page_interface/src/main/java/com/pinyougou/page/service/ItemPageService.java" />
     <entry file="file://$PROJECT_DIR$/../pinyougou_parent/pinyougou_search_service/src/main/java/com/pinyougou/search/service/impl/ItemSearchListener.java" />
@@ -396,10 +647,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+=======
+    <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContentCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContentCategory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -436,10 +718,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/pinyougou_order_interface/order.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContentCategory.java" />
     <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/TbContent.java" />
     <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/PageResult.java" />
@@ -449,14 +738,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+=======
+    <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/pinyougou_order_interface/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+>>>>>>> 67d5e88238f43dc58e5b65644d78318337d29610
           <folding />
         </state>
       </provider>
