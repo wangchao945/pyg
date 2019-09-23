@@ -1,8 +1,8 @@
 package com.pinyougou.content.service;
 import java.util.List;
-import com.pinyougou.pojo.TbContentCategory;
+//import com.pinyougou.pojo.TbContentCategory;
 
-import entity.PageResult;
+//import entity.PageResult;
 /**
  * 服务层接口
  * @author Administrator
